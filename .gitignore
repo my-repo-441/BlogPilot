@@ -1,0 +1,17 @@
+package_lock.json
+blogpilot-447102-697d97994e05.json
+.env
+.vite
+.DS_Store
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore all .pyc files
+*.pyc
+
+frontend/.DS_Store
+frontend/node_modules
+
+backend/.env
+backend/data
+backend/.DS_Store
